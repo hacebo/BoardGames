@@ -1,2 +1,5 @@
 # BoardGames
-Test application using angular, web api 
+Prototype application using angular.js, bootstrap ,web api, ninject and mvc.
+
+
+
