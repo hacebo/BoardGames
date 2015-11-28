@@ -1,7 +1,8 @@
 # BoardGames
 Prototype application using angular.js, jasmine.js , bootstrap ,web api, ninject and mvc. 
 
-........Application structure..........
+Application structure
+
 BoardGames
   -Is the main web solution where the main view, and the web api controllers are stored(It was stored here for simplicity), but it could be done on a saparate project.
   -Includes the angular logic under Scripts - app - appGame.js
